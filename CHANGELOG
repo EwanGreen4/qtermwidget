@@ -1,3 +1,7 @@
+qtermwidget-0.17.0 / unreleased
+===============================
+  * Drop support for KDE3 color scheme formats
+
 qtermwidget-0.16.1 / 2020-11-14
 ===============================
   * Bumped version to 0.16.1, for a point release of qterminal.
